@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Reports and captures (audit output, never commit)
+report.json
+*.report.json
+captured.jsonl
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Blog draft (CMS content, not part of the repo)
+blog.md

@@ -1,0 +1,5 @@
+# Lab hosts for the RinP SubChain walkthrough (auditor input)
+# Note the :8901 port - it is part of the CSP lesson in GUIDE.md step 5.
+app.localtest.me:8901
+victim2.localtest.me:8901
+evil.localtest.me:8901
